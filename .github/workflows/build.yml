@@ -1,0 +1,27 @@
+name: build
+on:
+  schedule: [{cron: "0 3 * * *"}]
+  workflow_dispatch:
+  push: {branches: [main], paths: ["build.py", "geosite.py"]}
+permissions: {contents: write}
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Tải nguồn
+        run: |
+          mkdir -p /tmp/src/v2fly
+          curl -sL https://github.com/v2fly/domain-list-community/archive/refs/heads/master.tar.gz | tar xz -C /tmp/src/v2fly --strip-components=1
+          curl -sL -o /tmp/src/rf.dat https://github.com/runetfreedom/russia-v2ray-rules-dat/releases/latest/download/geosite.dat
+      - name: Build
+        run: python3 build.py /tmp/src/v2fly/data /tmp/src/rf.dat
+      - name: Commit + release
+        env: {GH_TOKEN: "${{ github.token }}"}
+        run: |
+          git config user.name github-actions; git config user.email github-actions@users.noreply.github.com
+          git add -A
+          if git diff --cached --quiet; then echo "Không đổi"; exit 0; fi
+          git commit -m "Cập nhật $(date -u +%Y-%m-%d)"; git push
+          TAG=$(date -u +%Y%m%d%H%M)
+          gh release create "$TAG" geosite.dat ru-direct.txt --title "$TAG" --notes "Tự build từ v2fly category-ru + runetfreedom ru-available-only-inside"

@@ -1,0 +1,12 @@
+# Tất cả domain Nga nên đi DIRECT
+include:ru-tld
+include:ru-bank
+include:ru-gov
+include:ru-medicine
+include:ru-shop
+include:ru-social
+include:ru-telecom
+include:ru-media
+include:ru-travel
+include:ru-edu
+include:ru-other
