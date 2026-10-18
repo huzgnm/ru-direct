@@ -1429,7 +1429,7 @@ domain:sgoedu74.ru
 domain:tak-pravilno.com
 domain:ulyanovsk-sgo-cit73.ru
 
-# === Khác (công ty Nga, phần mềm, hosting...) (509) ===
+# === Khác (công ty Nga, phần mềm, hosting...) (522) ===
 domain:21-school.ru
 domain:2gis.ae
 domain:2gis.am
@@ -1466,9 +1466,18 @@ domain:banki.ru
 domain:beeline.ru
 domain:beesbfl.ru
 domain:beescrm.ru
+domain:beget.app
+domain:beget.cloud
 domain:beget.com
+domain:beget.de
+domain:beget.hosting
+domain:beget.pro
 domain:beget.ru
+domain:beget.tech
+domain:begetcdn.cloud
+domain:beserver.ru
 domain:betboom.ru
+domain:bget.ru
 domain:bimsaas.ru
 domain:bitrix.info
 domain:bitrix24.com
@@ -1867,6 +1876,7 @@ domain:skyeng.ru
 domain:slc.tl
 domain:smena.cafe
 domain:sozvezdie-dobra.ru
+domain:sprut.io
 domain:srv-hub.org
 domain:standoff365.com
 domain:summitceo.ru
@@ -1883,6 +1893,8 @@ domain:tildacdn.com
 domain:tildacdn.net
 domain:timeweb.cloud
 domain:timeweb.com
+domain:timeweb.tech
+domain:timewebcloud.kz
 domain:tips.tips
 domain:tokenator.top
 domain:ttk.ru
@@ -1933,6 +1945,7 @@ domain:winline.ru
 domain:winlinebet.ru
 domain:xlnk.ms
 domain:xn--90absjljw3g.xn--p1ai
+domain:xn--90aefb9d.xn--p1ai
 domain:xn--90aijkdmaud0d.xn--p1ai
 domain:yadro.ru
 domain:yourgood.app
