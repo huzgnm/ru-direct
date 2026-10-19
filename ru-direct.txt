@@ -367,7 +367,7 @@ domain:zenit-card.ru
 domain:zenit.ru
 domain:ziraatbank.ru
 
-# === Chính phủ / dịch vụ công (142) ===
+# === Chính phủ / dịch vụ công (145) ===
 domain:adygeya.ru
 domain:altai.ru
 domain:amur.ru
@@ -440,6 +440,7 @@ domain:mgfoms.ru
 domain:mil.ru
 domain:mordovia.ru
 domain:mos.ru
+domain:mospat.ru
 domain:mosreg.ru
 domain:murmansk.ru
 domain:nalchik.ru
@@ -453,12 +454,14 @@ domain:omsk.ru
 domain:ooc-school.ru
 domain:orb.ru
 domain:oryol.ru
+domain:patriarchia.ru
 domain:penza.ru
 domain:perm.ru
 domain:prim-edu.ru
 domain:psk.ru
 domain:pskov.ru
 domain:ptz.ru
+domain:regionvideo.ru
 domain:rkomi.ru
 domain:rnd.ru
 domain:ro-edu.ru
@@ -789,7 +792,7 @@ domain:xn--80acbjgsdq2cl.xn--p1ai
 domain:xn--90ab.com
 domain:xn--e1adjldbbpv.xn--90ais
 
-# === Yandex / VK / Mail.ru / OK / Rutube (347) ===
+# === Yandex / VK / Mail.ru / OK / Rutube (350) ===
 domain:algoritmika.org
 domain:aodahl.com
 domain:apiok.ru
@@ -890,6 +893,9 @@ domain:kinopoisk-ru.clstorage.net
 domain:kinopoisk.ru
 domain:knightspeak.com
 domain:koddobra.ru
+full:kp-config-smart-tv.akamaized.net
+full:kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+domain:kp.yandex.net
 domain:lerna.ru
 domain:list.ru
 domain:lovina.app
@@ -1138,7 +1144,7 @@ domain:yndx.net
 domain:youla.io
 domain:youla.ru
 
-# === Nhà mạng (30) ===
+# === Nhà mạng (31) ===
 domain:azbukainterneta.ru
 domain:b2c-digest.ru
 domain:inplat.ru
@@ -1148,6 +1154,7 @@ domain:megafon.ru
 domain:megafonpro.ru
 domain:mgfn.ru
 domain:more.tv
+domain:mts-link.ru
 domain:mts-ws.net
 domain:mts.ru
 domain:mtsmedia.ru
@@ -1170,7 +1177,7 @@ domain:xn--80arpq.xn--p1ai
 domain:yota.ru
 domain:yotagamer.ru
 
-# === Báo chí / giải trí (208) ===
+# === Báo chí / giải trí (216) ===
 domain:1917live.red
 domain:1prime.ru
 domain:24h.tv
@@ -1186,6 +1193,7 @@ domain:artel.watch
 domain:arteldoc.com
 domain:arteldoc.tv
 domain:asiangooglenetwork.com
+domain:azbyka.ru
 domain:b37mrtl.ru
 domain:baltnews.com
 domain:baltnews.lt
@@ -1249,6 +1257,7 @@ domain:ixbt.shop
 domain:ixbt.site
 domain:ixbt.video
 domain:jinrieluosi.cn
+domain:joyreactor.cc
 domain:kanzlerdaddy.ru
 domain:khangar.net
 domain:kinescopecdn.net
@@ -1272,6 +1281,10 @@ domain:overi.ru
 domain:pikabu.ru
 domain:playfamily.ru
 domain:pobeda.page
+domain:posledovania.ru
+domain:pravmir.com
+domain:pravmir.ru
+domain:pravoslavie.ru
 domain:premier.one
 domain:premiumlive.site
 domain:pressria.ru
@@ -1368,7 +1381,9 @@ domain:ukraina.ru
 domain:vc.ru
 domain:viju.ru
 domain:watchingthehawks.com
+domain:webtypikon.ru
 domain:worldcuprussia.com
+domain:xn--80adfddrquddgz.xn--p1ai
 domain:xn--80aglfyfk.xn--p1ai
 domain:xn--80aglzei.xn--p1ai
 domain:xn--b1agatafrepfl.xn--p1ai
@@ -1408,10 +1423,11 @@ full:taxi.yandex.ru
 full:transport.mos.ru
 domain:tutu.ru
 
-# === Giáo dục (19) ===
+# === Giáo dục (20) ===
 domain:altaiobr04.ru
 domain:chelyabinsk-sgo-edu-74.ru
 domain:gramotei.online
+domain:hse.ru
 domain:kakpishem.ru
 domain:kartaslov.ru
 domain:mel.fm
@@ -1429,7 +1445,8 @@ domain:sgoedu74.ru
 domain:tak-pravilno.com
 domain:ulyanovsk-sgo-cit73.ru
 
-# === Khác (công ty Nga, phần mềm, hosting...) (522) ===
+# === Khác (công ty Nga, phần mềm, hosting...) (539) ===
+domain:1c-bitrix.ru
 domain:21-school.ru
 domain:2gis.ae
 domain:2gis.am
@@ -1456,6 +1473,7 @@ domain:aiesa.ru
 domain:alice.yandex.net
 domain:alice.yandex.ru
 domain:alicepro.yandex.ru
+domain:amt-insurance.com
 domain:antiphishing.nl
 domain:antiphishing.ru
 domain:apptrackpets.com
@@ -1481,6 +1499,14 @@ domain:bget.ru
 domain:bimsaas.ru
 domain:bitrix.info
 domain:bitrix24.com
+domain:bitrix24.net
+domain:bitrix24.ru
+domain:bitrix24.tech
+domain:bitrix24public.com
+domain:bitrix24shop.ru
+domain:bitrix24site.ru
+domain:bitrixphone.com
+domain:bitrixsoft.com
 domain:bk6bba-resources.com
 domain:bk6bba-resources.ru
 domain:bkvet.ru
@@ -1497,6 +1523,7 @@ domain:cdek.shopping
 domain:ceosummit.ru
 domain:cert-gib.com
 domain:cert-gib.ru
+domain:chat2desk.com
 domain:chipcore.com
 domain:chipcore.ru
 domain:citydrive.ru
@@ -1716,9 +1743,12 @@ full:ksn-url-geo.kaspersky-labs.com
 full:ksn-url.geoksn.kaspersky.com
 full:ksn-verdict-geo.kaspersky-labs.com
 full:ksn-verdict.geoksn.kaspersky.com
+domain:ktalk.host
+domain:ktalk.ru
 domain:kuper.ru
 domain:lemanapro.ru
 domain:leroymerlin.ru
+domain:lexgarant.com
 domain:ligadobra.ru
 domain:ligastavok-csr.ru
 domain:ligastavok.ru
@@ -1803,7 +1833,10 @@ full:refresh-bkg.activation-v2.kaspersky.com
 domain:reg.cloud
 domain:reg.com
 domain:reg.ru
+domain:renins.com
+domain:renins.ru
 domain:restnproducts.ru
+domain:robohall.tech
 domain:robotext.io
 domain:ru.com
 domain:ru.net
