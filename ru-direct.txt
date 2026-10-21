@@ -559,7 +559,7 @@ domain:vipmed.ru
 domain:zdravcity.ru
 domain:zub.ru
 
-# === Mua sắm / bán lẻ (242) ===
+# === Mua sắm / bán lẻ (244) ===
 domain:5ka.ru
 domain:5post.market
 domain:abonementx5.ru
@@ -570,8 +570,10 @@ domain:audiohead.ru
 domain:auto.ru
 domain:autoru.me
 domain:av.ru
+domain:avito.com
 domain:avito.ru
 domain:avito.st
+domain:avito.tech
 domain:avto.ru
 domain:bristol.ru
 domain:chizhik.club
