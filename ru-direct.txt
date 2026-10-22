@@ -1458,7 +1458,7 @@ domain:sgoedu74.ru
 domain:tak-pravilno.com
 domain:ulyanovsk-sgo-cit73.ru
 
-# === Khác (công ty Nga, phần mềm, hosting...) (539) ===
+# === Khác (công ty Nga, phần mềm, hosting...) (543) ===
 domain:1c-bitrix.ru
 domain:21-school.ru
 domain:2gis.ae
@@ -1600,6 +1600,9 @@ domain:drweb.fr
 domain:drweb.kz
 domain:drweb.ru
 domain:drweb.uz
+domain:ds-servers.com
+domain:dsn.host
+domain:dsncdn.net
 domain:dzvr.ru
 domain:eaptechka.online
 domain:eapteka.ru
@@ -1672,6 +1675,7 @@ domain:hh.by
 domain:hh.kz
 domain:hh.ru
 domain:hhcdn.ru
+domain:hostland.ru
 domain:id.ru
 domain:ideco.dev
 domain:ideco.ru
