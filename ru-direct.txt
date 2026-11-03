@@ -1458,7 +1458,7 @@ domain:sgoedu74.ru
 domain:tak-pravilno.com
 domain:ulyanovsk-sgo-cit73.ru
 
-# === Khác (công ty Nga, phần mềm, hosting...) (543) ===
+# === Khác (công ty Nga, phần mềm, hosting...) (545) ===
 domain:1c-bitrix.ru
 domain:21-school.ru
 domain:2gis.ae
@@ -1501,6 +1501,7 @@ domain:beget.app
 domain:beget.cloud
 domain:beget.com
 domain:beget.de
+domain:beget.email
 domain:beget.hosting
 domain:beget.pro
 domain:beget.ru
@@ -1999,6 +2000,7 @@ domain:xn--90aefb9d.xn--p1ai
 domain:xn--90aijkdmaud0d.xn--p1ai
 domain:yadro.ru
 domain:yourgood.app
+domain:zapishu.me
 domain:zarplata.ru
 domain:zvuk-b2b.com
 domain:zvuk.com
