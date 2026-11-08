@@ -1458,7 +1458,7 @@ domain:sgoedu74.ru
 domain:tak-pravilno.com
 domain:ulyanovsk-sgo-cit73.ru
 
-# === Khác (công ty Nga, phần mềm, hosting...) (545) ===
+# === Khác (công ty Nga, phần mềm, hosting...) (546) ===
 domain:1c-bitrix.ru
 domain:21-school.ru
 domain:2gis.ae
@@ -1810,6 +1810,7 @@ domain:nichost.ru
 domain:nplus1.ru
 domain:ognihome.com
 domain:onelya.ru
+domain:otzovik.com
 full:p00.upd.kaspersky.com
 full:p01.upd.kaspersky.com
 full:p02.upd.kaspersky.com
