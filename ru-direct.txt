@@ -1458,7 +1458,7 @@ domain:sgoedu74.ru
 domain:tak-pravilno.com
 domain:ulyanovsk-sgo-cit73.ru
 
-# === Khác (công ty Nga, phần mềm, hosting...) (546) ===
+# === Khác (công ty Nga, phần mềm, hosting...) (547) ===
 domain:1c-bitrix.ru
 domain:21-school.ru
 domain:2gis.ae
@@ -1774,6 +1774,7 @@ domain:litres.ru
 domain:mail-carrotquest.io
 domain:mcc250.pub.3gppnetwork.org
 full:mdr.ksn.kaspersky-labs.com
+domain:megabitus.com
 domain:megamarket.ru
 domain:megamarket.tech
 domain:meteofor.com
