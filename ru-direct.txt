@@ -807,7 +807,7 @@ domain:xn--80acbjgsdq2cl.xn--p1ai
 domain:xn--90ab.com
 domain:xn--e1adjldbbpv.xn--90ais
 
-# === Yandex / VK / Mail.ru / OK / Rutube (349) ===
+# === Yandex / VK / Mail.ru / OK / Rutube (348) ===
 domain:algoritmika.org
 domain:aodahl.com
 domain:apiok.ru
@@ -1134,7 +1134,6 @@ domain:yandexdataschool.ru
 domain:yandexgo.com
 domain:yandexlyceum.ru
 domain:yandexwebcache.net
-domain:yandexwebcache.org
 domain:yango-b2b.com
 domain:yango-team.com
 domain:yango-tech.com
