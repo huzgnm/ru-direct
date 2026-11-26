@@ -1732,7 +1732,7 @@ domain:sgoedu74.ru
 domain:tak-pravilno.com
 domain:ulyanovsk-sgo-cit73.ru
 
-# === Khác (công ty Nga, phần mềm, hosting...) (577) ===
+# === Khác (công ty Nga, phần mềm, hosting...) (570) ===
 domain:1c-bitrix.ru
 domain:21-school.ru
 domain:2gis.ae
@@ -2014,7 +2014,6 @@ domain:kaspersky.rs
 domain:kaspersky.ru
 domain:kaspersky.se
 domain:killercb.ru
-domain:koenig.ru
 domain:kontur-inc.com
 domain:kontur.host
 domain:kontur.ru
@@ -2097,7 +2096,6 @@ domain:novotelecom.ru
 domain:nplus1.ru
 domain:ognihome.com
 domain:onelya.ru
-domain:oryol.ru
 domain:otzovik.com
 full:p00.upd.kaspersky.com
 full:p01.upd.kaspersky.com
@@ -2146,7 +2144,6 @@ domain:reg.ru
 domain:renins.com
 domain:renins.ru
 domain:restnproducts.ru
-domain:rnd.ru
 domain:robohall.tech
 domain:robotext.io
 domain:ru.com
@@ -2215,7 +2212,6 @@ domain:servicepipe.ru
 domain:servicepipe.tech
 domain:setka.ru
 domain:showip.net
-domain:simbirsk.ru
 domain:sistema-capital.com
 domain:sknt.ru
 domain:sky.pro
@@ -2287,11 +2283,9 @@ domain:uweb.ru
 domain:vigo.tech
 domain:vimu.tv
 domain:vladlink.ru
-domain:vlg.ru
 domain:vscale.blog
 domain:vscale.io
 domain:vscale.ru
-domain:vyatka.ru
 domain:whitesaas.com
 domain:whoosh-bike.ru
 domain:whoosh.bike
@@ -2304,7 +2298,6 @@ domain:xn--90aefb9d.xn--p1ai
 domain:xn--90aijkdmaud0d.xn--p1ai
 domain:yadro.ru
 domain:yourgood.app
-domain:yuzhno-sakhalinsk.ru
 domain:zapishu.me
 domain:zarplata.ru
 domain:zsttk.net
